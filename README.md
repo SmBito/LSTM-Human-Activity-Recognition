@@ -50,7 +50,7 @@ An LSTM is an improved RNN. It is more complex, but easier to train, avoiding wh
 
 
 
-![LSTM Training Testing Comparison Curve](LSTM_files/LSTM_16_0.png)
+![LSTM Training Testing Comparison Curve](LSTM_files/LSTM_16_0_modified.png)
 
 
 ## multi-class confusion matrix and metrics!
@@ -85,7 +85,7 @@ An LSTM is an improved RNN. It is more complex, but easier to train, avoiding wh
 
 
 
-![Confusion Matrix](LSTM_files/LSTM_18_1.png)
+![Confusion Matrix](LSTM_files/LSTM_18_1_modified.png)
 
 
 ## Conclusion
